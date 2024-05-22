@@ -22,7 +22,7 @@ pic-url = "https://storage.yandexcloud.net/paint/goa.jpg"
 ![VM](https://github.com/EVolgina/ycloud2/blob/main/Ресурсы.png)
 
 ![paint](https://github.com/EVolgina/ycloud2/blob/main/картинка.png)
-![NLB]()
+![NLB](https://github.com/EVolgina/ycloud2/blob/main/балансировщик.png)
 ![Перезапуск](https://github.com/EVolgina/ycloud2/blob/main/перезапуск.png)
 ```
 
