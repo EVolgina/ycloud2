@@ -12,7 +12,7 @@
 - Создать сетевой балансировщик.
 - Проверить работоспособность, удалив одну или несколько ВМ.
   [main.tf](https://github.com/EVolgina/ycloud2/blob/main/main.tf) [variables.tf]()
-[providers.tf]()
+[providers.tf](https://github.com/EVolgina/ycloud2/blob/main/providers.tf)
 ```
 Apply complete! Resources: 4 added, 0 changed, 5 destroyed.
 Outputs:
